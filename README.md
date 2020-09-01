@@ -1,6 +1,6 @@
 # ACL2020-Scraper
 
-This repository consists of a Python script used to scrape the Titles and Abstracts for papers published for ACL2020 (Association for Computational Linguistics).
+This repository consists of a Python script used to scrape the Titles and Abstracts for papers published for [ACL2020](https://www.aclweb.org/anthology/events/acl-2020/) (Association for Computational Linguistics).
 
 ## Requirements:
 
